@@ -1,4 +1,6 @@
 import React, {Component} from 'react';
+import Credit from 'Credit';
+import Debit from 'Debit';
 
 class AccountBalance extends Component {
   render() {
